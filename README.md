@@ -16,6 +16,7 @@ Table of Contents
 =================
 
    * [Предисловие]()
+   * [Table of Contents]()
    * [Сервисы, которые не требуют специальных навыков.]()
       * [<a href="https://toloka.yandex.ru/" rel="nofollow">Яндекс.Толока</a>](https://toloka.yandex.ru/)
       * [<a href="https://www.workle.ru/" rel="nofollow">Workle</a>](https://www.workle.ru/)
@@ -38,10 +39,14 @@ Table of Contents
    * [Для водителей]()
       * [Грузоперевозки]()
       * [Совместные междугородние поездки]()
+   * [Для медиков]()
+   * [Для тех, у кого есть юрлицо, ЭЦП, и немного оборотки]()
    * [Для всех, у кого есть жильё]()
    * [Для путешественников]()
    * [Биржи удалённых работ]()
    * [Сервисы для оптимальных покупок (экономия)]()
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 =================
 
